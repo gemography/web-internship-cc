@@ -17,6 +17,7 @@ For the Frontend, you can use one of the options listed below :
 - React
 - VueJS
 
+As for the database, you should use MongoDB
 ## Features
 * As a User, I can sign up using my email & password
 * As a User, I can sign in using my email & password
@@ -116,5 +117,10 @@ If you have any questions or feedback, don't hesitate to contact us via zakaria@
 - https://github.com/TimothyDJones/awesome-laravel
 - https://github.com/chiraggude/awesome-laravel
 
+### MongoDB
+
+- https://docs.mongodb.com/manual/
+- https://robomongo.org
+- https://www.youtube.com/watch?v=AcKSadYjrSU
 
 That’s it ! May the force be with you !! 🖖 
