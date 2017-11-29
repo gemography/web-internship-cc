@@ -1,7 +1,9 @@
 # Web Coding Challenge (Internship)
 
 ## Idea of the app
-The task is to implement an app that lists shops nearby. 
+Alfie has one of the weirdest cravings ever; no matter what time it is or where he is, he gets an urge to buy food as soon as possible. For someone who has never money problems like Alfie, this shouldn't be an issue. However, he cannot always remember where the nearest shop is or which are his favorite ones, which makes it hard for him to satisfy his appetite.
+
+Your task is to implement an app that allows people like Alfie to see the list of all the nearby shops, as well as to save their favorite ones.
 
 ## Technologies to use
 
@@ -17,7 +19,7 @@ For the Frontend, you can use one of the options listed below :
 - React
 - VueJS
 
-As for the database, you should use MongoDB
+As for the database, you should use MongoDB.
 ## Features
 * As a User, I can sign up using my email & password
 * As a User, I can sign in using my email & password
@@ -27,7 +29,6 @@ As for the database, you should use MongoDB
 * [Optional] As a User, I can dislike a shop, so it won’t be displayed within “Nearby Shops” list during the next 2 hours
 * [Optional] As a User, I can display the list of preferred shops
 * [Optional] As a User, I can remove a shop from my preferred shops list
-
 
 ## Mockups
 
