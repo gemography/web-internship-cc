@@ -5,14 +5,14 @@ The task is to implement an app that lists shops nearby.
 
 ## Technologies to use
 
-For the Backend, you can choose one the options listed below : 
+For the Backend, you can use one the options listed below : 
 - Java/Spring Boot
 - NodeJS (ExpressJS)
 - Python/Django
 - Ruby on Rails 
 - Laravel or Symfony 
 
-For the Frontend, you can one of the options listed below : 
+For the Frontend, you can use one of the options listed below : 
 - Angular
 - React
 - VueJS
