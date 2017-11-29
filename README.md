@@ -1,44 +1,31 @@
-# Web Coding Challenge
+# Web Coding Challenge (Internship)
 
 ## Idea of the app
 The task is to implement an app that lists shops nearby. 
 
-
 ## Technologies to use
 
-You can choose one the options listed below : 
-
-- Java/Spring :
-  - Backend : Spring Boot
-  - Frontend : Angular 4 || ReactJS || VueJS
-  - Database : MongoDB
-- Javascript
-  - Frontend : ReactJS || VueJS
-  - Backend : NodeJS (ExpressJS)
-  - Database : MongoDB
+For the Backend, you can choose one the options listed below : 
+- Java/Spring Boot
+- NodeJS (ExpressJS)
 - Python/Django
-  - Backend : Django
-  - Frontend : Angular 4 || ReactJS || VueJS
-  - Database : MongoDB
-- RoR 
-  - Backend : Rails
-  - Frontend : Angular 4 || ReactJS || VueJS
-  - Database : MongoDB
-- PHP 
-  - Backend : Laravel || Symfony
-  - Frontend : Angular 4 || ReactJS || VueJS
-  - Database : MongoDB || MySQL
+- Ruby on Rails 
+- Laravel or Symfony 
 
+For the Frontend, you can one of the options listed below : 
+- Angular
+- React
+- VueJS
 
 ## Features
-- [Optional] As a User, I can sign up using my email & password
-- [Optional] As a User, I can sign in using my email & password
-- As a User, I can display the list of shops sorted by distance
-- As a User, I can like a shop, so it can be added to my preferred shops
+* As a User, I can sign up using my email & password
+* As a User, I can sign in using my email & password
+* As a User, I can display the list of shops sorted by distance
+* As a User, I can like a shop, so it can be added to my preferred shops
   - Acceptance criteria: liked shops shouldn’t be displayed on the main page
-- As a User, I can dislike a shop, so it won’t be displayed within “Nearby Shops” list during the next 2 hours
-- As a User, I can display the list of preferred shops
-- As a User, I can remove a shop from my preferred shops list
+* [Optional] As a User, I can dislike a shop, so it won’t be displayed within “Nearby Shops” list during the next 2 hours
+* [Optional] As a User, I can display the list of preferred shops
+* [Optional] As a User, I can remove a shop from my preferred shops list
 
 
 ## Mockups
