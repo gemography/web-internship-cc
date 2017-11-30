@@ -3,7 +3,7 @@
 ## Idea of the app
 Alfie has one of the weirdest cravings ever; no matter what time it is or where he is, he gets an urge to buy food as soon as possible. For someone who has never money problems like Alfie, this shouldn't be an issue. However, he cannot always remember where the nearest shop is or which are his favorite ones, which makes it hard for him to satisfy his appetite.
 
-Your task is to implement an app that allows people like Alfie to see the list of all the nearby shops, as well as to save their favorite ones.
+Your task is to implement an app that allows people like Alfie to see the list of all the nearby shops, as well as to keep track of their favorite ones.
 
 ## Technologies to use
 
@@ -62,16 +62,15 @@ A MongoDB dump with ~300 shops is provided. To import the data, you need to extr
 - Do not forget documentation. Or how are we going to evaluate your work if we can't init the project on our machines?
 - Put more focus on code quality and less on speed. Don't hack something quickly, take your time and craft something clean.
 
+## Questions?
+
+Asking questions is highly recommended in this exercise. Do not assume anything!
+
+If you have any questions or feedback, don't hesitate to contact us via zakaria@hiddenfounders.com
 
 ## Once you're done with the app
 
 Put the code of your project on Github and send the URL to zakaria@hiddenfounders.com
-
-
-## Questions?
-
-If you have any questions or feedback, don't hesitate to contact us via zakaria@hiddenfounders.com
-
 
 ## Useful links & resources
 
